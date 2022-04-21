@@ -6,7 +6,7 @@ To ensure that my code, program, or software is functional and secure resides in
 
 **How do I interpret user needs and incorporate them into a program?**
 
-Interpreting user needs into a program is a vital part of the development and the overall software development lifecycle. Throughout this course, I focused on understanding the requirements given for each assignment, and how to properly apply this within my code, especially during the JUnit testing process. Incorporating user needs into a program boils down to understanding the user’s specific requirements and ensuring as the programmer I interpret them accordingly.
+Interpreting user needs into a program is a vital part of the development and the overall software development lifecycle. Throughout this course, I focused on understanding the requirements given for each assignment, and how to properly apply this within my code, especially during the JUnit testing process. Incorporating user needs into a program boils down to understanding the user’s specific requirements and ensuring as the programmer I interpret them accordingly. 
 
 **How do I approach designing software?**
 
